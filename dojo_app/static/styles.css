@@ -1,0 +1,9 @@
+ *{
+     margin: 0px;
+     padding: 0px;
+ }
+.caja{
+    display: flex;
+    background-color: grey;
+    color:red
+}
